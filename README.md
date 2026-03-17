@@ -1,6 +1,6 @@
 # Primeros Scripts de Bash
 
-Este es mi primer repositorio de GitHub donde guardo los scripts que he creado para aprender Bash
+Este es mi primer repositorio de GitHub donde guardo los scripts que he creado para aprender Bash y administración de sistemas Linux.
 
 ###  ¿Qué hace cada script?
 
@@ -14,7 +14,10 @@ Este es mi primer repositorio de GitHub donde guardo los scripts que he creado p
 ###  Cómo usarlos
 
 1. **Dale permisos de ejecución** al script que quieras usar:
- chmod +x nombre_del_script.sh
- 
-2. Ejecútalo pasando el parámetro necesario (si lo requiere):
+```
+chmod +x nombre_del_script.sh
+```
+ 2. **Ejecútalo pasando el parámetro necesario** (si lo requiere):
+```
 ./nombre_del_script.sh "parámetro"
+```
