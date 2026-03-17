@@ -1,6 +1,6 @@
 # Primeros Scripts de Bash
 
-Este es mi primer repositorio de GitHub donde guardo los scripts que he creado para aprender Bash y administración de sistemas Linux.
+Este es mi primer repositorio de GitHub donde guardo los scripts que he creado para aprender Bash
 
 ###  ¿Qué hace cada script?
 
